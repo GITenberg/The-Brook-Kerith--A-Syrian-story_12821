@@ -1,0 +1,33 @@
+_repo: The-Brook-Kerith--A-Syrian-story_12821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: In The Brook Kerith , Christ does not die on the cross. Rather, he is
+  nursed back to health and travels to India in search of wisdom. Hailed as a "remarkable
+  achievement in fiction" by the New York Times --but highly controversial when published--this
+  novel paints a vivid portrait of the Holy Land in the days of Christ.
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. New Testament -- History of Biblical events -- Fiction'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: 'The Brook Kerith: A Syrian story'
+url: http://www.gutenberg.org/ebooks/12821
