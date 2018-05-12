@@ -1,5 +1,8 @@
 _repo: The-Brook-Kerith--A-Syrian-story_12821
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moore, George Augustus
@@ -15,6 +18,8 @@ description: In The Brook Kerith , Christ does not die on the cross. Rather, he 
   nursed back to health and travels to India in search of wisdom. Hailed as a "remarkable
   achievement in fiction" by the New York Times --but highly controversial when published--this
   novel paints a vivid portrait of the Holy Land in the days of Christ.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12821#The-Brook-Kerith--A-Syrian-story
 gutenberg_issued: '2004-07-05'
 gutenberg_type: Text
 identifiers:
